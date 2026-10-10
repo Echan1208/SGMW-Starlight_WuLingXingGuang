@@ -1,0 +1,13 @@
+# Build output
+build/
+*.apk
+*.idsig
+
+# Signing keys — never commit these
+*.keystore
+*.jks
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
